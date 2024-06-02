@@ -1,6 +1,6 @@
 # Google Driver Uploader
 
-Simple REST Django app, which provides ability to upload a file to gmail drive
+Simple REST Django app, which provides ability to upload a file to GOOGLE Drive
 
 ## Deploy instructions
 
