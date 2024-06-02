@@ -1,0 +1,2 @@
+# create you model for {{camel_case_app_name}} admin here
+from django.contrib import admin

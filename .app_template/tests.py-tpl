@@ -1,0 +1,2 @@
+# create test for {{camel_case_app_name}}
+from django.urls import reverse

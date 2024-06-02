@@ -1,0 +1,2 @@
+# create your models here {{camel_case_app_name}}
+from django.db import models

@@ -1,0 +1,2 @@
+# Create serializers for {{camel_case_app_name}}
+from rest_framework import serializers
